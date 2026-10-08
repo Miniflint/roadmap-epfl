@@ -15,6 +15,22 @@ __A box ONLY is ticked when:__
 7. Apply the concept to programming when relevant
 8. Solve problems without relying on a tutorial
 
+## Final Goal
+
+By the end of this roadmap, I want to be able to:
+
+1. Understand mathematics rather than memorize formulas
+2. Solve unfamiliar mathematical problems
+3. Read university-level mathematics
+4. Follow EPFL-level mathematics courses
+5. Write mathematical proofs
+6. Understand calculus and analysis rigorously
+7. Understand linear algebra both geometrically and abstractly
+8. Apply mathematics to computer graphics
+9. Build a mathematically correct ray tracer
+10. Understand the mathematics behind path tracing and Monte Carlo rendering
+11. Continue independently into higher mathematics
+
 ## Phase 1 | Get the foundations
 
 1. General
@@ -354,27 +370,9 @@ __A box ONLY is ticked when:__
         - [ ] Suites et séries | niveau licence
         - [ ] Limites epsilon-delta | cours français
 
-Main Learning Resource
-Primary French Resource
+Main Resource
+Primary Resource
     - [ ] Youtube: [Maths et Tiques | Yves Monka](https://www.youtube.com/@YMONKA)
     - [ ] Website: [Maths et Tiques | Yves Monka](https://maths-et-tiques.fr/)
 
 Use Maths et Tiques as the primary resource for foundational mathematics.
-
-For topics that go beyond the high-school curriculum, supplement it with French university-level courses.
-
-Final Goal
-
-By the end of this roadmap, I want to be able to:
-
-1. Understand mathematics rather than memorize formulas
-2. Solve unfamiliar mathematical problems
-3. Read university-level mathematics
-4. Follow EPFL-level mathematics courses
-5. Write mathematical proofs
-6. Understand calculus and analysis rigorously
-7. Understand linear algebra both geometrically and abstractly
-8. Apply mathematics to computer graphics
-9. Build a mathematically correct ray tracer
-10. Understand the mathematics behind path tracing and Monte Carlo rendering
-11. Continue independently into higher mathematics
