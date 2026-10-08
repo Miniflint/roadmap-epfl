@@ -356,7 +356,8 @@ __A box ONLY is ticked when:__
 
 Main Learning Resource
 Primary French Resource
-    - [ ] Maths et Tiques | Yves Monka
+    - [ ] Youtube: [Maths et Tiques | Yves Monka](https://www.youtube.com/@YMONKA)
+    - [ ] Website: [Maths et Tiques | Yves Monka](https://maths-et-tiques.fr/)
 
 Use Maths et Tiques as the primary resource for foundational mathematics.
 
@@ -366,14 +367,14 @@ Final Goal
 
 By the end of this roadmap, I want to be able to:
 
-1. [ ] Understand mathematics rather than memorize formulas
-2. [ ] Solve unfamiliar mathematical problems
-3. [ ] Read university-level mathematics
-4. [ ] Follow EPFL-level mathematics courses
-5. [ ] Write mathematical proofs
-6. [ ] Understand calculus and analysis rigorously
-7. [ ] Understand linear algebra both geometrically and abstractly
-8. [ ] Apply mathematics to computer graphics
-9. [ ] Build a mathematically correct ray tracer
-10. [ ] Understand the mathematics behind path tracing and Monte Carlo rendering
-11. [ ] Continue independently into higher mathematics
+1. Understand mathematics rather than memorize formulas
+2. Solve unfamiliar mathematical problems
+3. Read university-level mathematics
+4. Follow EPFL-level mathematics courses
+5. Write mathematical proofs
+6. Understand calculus and analysis rigorously
+7. Understand linear algebra both geometrically and abstractly
+8. Apply mathematics to computer graphics
+9. Build a mathematically correct ray tracer
+10. Understand the mathematics behind path tracing and Monte Carlo rendering
+11. Continue independently into higher mathematics
