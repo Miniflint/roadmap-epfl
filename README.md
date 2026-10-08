@@ -14,17 +14,17 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [x] Maths et Tiques | [Fractions 4-3](https://www.youtube.com/watch?v=a0Qb812W75c&list=PLVUDmbpupCarGS9399o4YIbb88_ytmvpc&index=1)
 
 2. Algebraic Manipulation
-    - [ ] Variables & expressions
+    - [x] Variables & expressions
     - [ ] Distributive property
-    - [ ] Combining like terms
+    - [x] Combining like terms
     - [ ] Powers & roots
     - [ ] Linear equations
     - [ ] Systems of linear equations
-    - [ ] Binomial expansions
+    - [x] Binomial expansions
     - [ ] Algebraic fractions
 
     - Ressources:
-        - [ ] Maths et Tiques | [Calcul littéral](https://www.youtube.com/watch?v=mbG8a5Uae30&list=PLVUDmbpupCapuHDg65cf4sNTNkYXVVGP-)
+        - [x] Maths et Tiques | [Calcul littéral](https://www.youtube.com/watch?v=mbG8a5Uae30&list=PLVUDmbpupCapuHDg65cf4sNTNkYXVVGP-)
         - [ ] Maths et Tiques | [Distributivité](https://www.youtube.com/watch?v=zRBOouW-O1c)
         - [ ] Maths et Tiques | [Réduire une expression](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc)
         - [ ] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
@@ -79,7 +79,7 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [ ] Maths et Tiques | Théorème de Pythagore
         - [ ] Maths et Tiques | Distance entre deux points
 
-1. Trigonometry
+2. Trigonometry
     - [ ] Degrees vs radians
     - [ ] SOH-CAH-TOA
     - [ ] Unit circle
@@ -90,12 +90,12 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
     - [ ] Fundamental trigonometric identities
     - [ ] Trigonometric equations
 
-French videos
-    - [ ] Maths et Tiques | Trigonométrie
-    - [ ] Maths et Tiques | Cercle trigonométrique
-    - [ ] Maths et Tiques | Sinus, cosinus et tangente
+    - Ressources
+        - [ ] Maths et Tiques | Trigonométrie
+        - [ ] Maths et Tiques | Cercle trigonométrique
+        - [ ] Maths et Tiques | Sinus, cosinus et tangente
 
-1. Vectors
+3. Vectors
     - [ ] 2D vectors
     - [ ] 3D vectors
     - [ ] Vector addition
@@ -110,69 +110,51 @@ French videos
     - [ ] Cross product
     - [ ] Surface normals
 
-French videos
-    - [ ] Maths et Tiques | Vecteurs
-    - [ ] Maths et Tiques | Produit scalaire
-    - [ ] Cours français | Produit vectoriel
-    - [ ] Cours français | Projection orthogonale
+    - Ressources
+        - [ ] Maths et Tiques | Vecteurs
+        - [ ] Maths et Tiques | Produit scalaire
+        - [ ] Cours français | Produit vectoriel
+        - [ ] Cours français | Projection orthogonale
 
-Ray tracing applications
-    - [ ] Implement a Vec3 class
-    - [ ] Implement vector addition/subtraction
-    - [ ] Implement scalar multiplication
-    - [ ] Implement magnitude & normalization
-    - [ ] Implement dot product
-    - [ ] Calculate angles between vectors
-    - [ ] Calculate projections
-    - [ ] Calculate reflections
-    - [ ] Calculate surface normals
+## PHASE 2.5 | Debut of algebra
 
 1. Linear Algebra
-Matrices
-    - [ ] Matrix basics
-    - [ ] Matrix addition
-    - [ ] Matrix multiplication
-    - [ ] Determinants
-    - [ ] Matrix inverses
-    - [ ] Identity matrix
-    - [ ] Matrix ↔ vector transformations
+    - Matrices
+        - [ ] Matrix basics
+        - [ ] Matrix addition
+        - [ ] Matrix multiplication
+        - [ ] Determinants
+        - [ ] Matrix inverses
+        - [ ] Identity matrix
+        - [ ] Matrix ↔ vector transformations
 
-Transformations
-    - [ ] Translation
-    - [ ] Scaling
-    - [ ] Rotation
-    - [ ] 2D transformations
-    - [ ] 3D transformations
-    - [ ] Coordinate systems
-    - [ ] Change of basis
-    - [ ] Homogeneous coordinates
+    - Transformations
+        - [ ] Translation
+        - [ ] Scaling
+        - [ ] Rotation
+        - [ ] 2D transformations
+        - [ ] 3D transformations
+        - [ ] Coordinate systems
+        - [ ] Change of basis
+        - [ ] Homogeneous coordinates
 
-Abstract Linear Algebra
-    - [ ] Linear transformations
-    - [ ] Linear independence
-    - [ ] Span
-    - [ ] Basis
-    - [ ] Dimension
-    - [ ] Vector spaces
+    - Abstract Linear Algebra
+        - [ ] Linear transformations
+        - [ ] Linear independence
+        - [ ] Span
+        - [ ] Basis
+        - [ ] Dimension
+        - [ ] Vector spaces
 
-French videos
-    - [ ] Algèbre linéaire | cours français
-    - [ ] Maths et Tiques | Matrices
-    - [ ] Cours français | Déterminants
-    - [ ] Cours français | Applications linéaires
-    - [ ] Cours français | Familles libres et génératrices
-    - [ ] Cours français | Bases et dimension
+    - Ressources
+        - [ ] Algèbre linéaire | cours français
+        - [ ] Maths et Tiques | Matrices
+        - [ ] Cours français | Déterminants
+        - [ ] Cours français | Applications linéaires
+        - [ ] Cours français | Familles libres et génératrices
+        - [ ] Cours français | Bases et dimension
 
-Ray tracing applications
-    - [ ] Transformation matrices
-    - [ ] Camera transformations
-    - [ ] World → camera coordinates
-    - [ ] Camera → screen coordinates
-    - [ ] Rotation matrices
-    - [ ] Scaling matrices
-    - [ ] Transformation composition
-
-1. Exponents, Roots & Logarithms
+2. Exponents, Roots & Logarithms
     - [ ] Laws of exponents
     - [ ] Negative exponents
     - [ ] Fractional exponents
@@ -183,174 +165,175 @@ Ray tracing applications
     - [ ] Exponential equations
     - [ ] Logarithmic equations
 
-French videos
-    - [ ] Maths et Tiques | Puissances
-    - [ ] Maths et Tiques | Racines carrées
-    - [ ] Maths et Tiques | Exponentielle
-    - [ ] Maths et Tiques | Logarithme
+    - Ressources
+        - [ ] Maths et Tiques | Puissances
+        - [ ] Maths et Tiques | Racines carrées
+        - [ ] Maths et Tiques | Exponentielle
+        - [ ] Maths et Tiques | Logarithme
 
 ## Phase 3 | Mathematical Maturity
 
-10. Discrete Mathematics & Proofs
-Logic
-    - [ ] Propositions
-    - [ ] Logical operators
-    - [ ] Truth tables
-    - [ ] Implication
-    - [ ] Equivalence
-    - [ ] Quantifiers
+1. Discrete Mathematics & Proofs
+    - Logic
+        - [ ] Propositions
+        - [ ] Logical operators
+        - [ ] Truth tables
+        - [ ] Implication
+        - [ ] Equivalence
+        - [ ] Quantifiers
 
-Set Theory
-    - [ ] Sets
-    - [ ] Subsets
-    - [ ] Union
-    - [ ] Intersection
-    - [ ] Complement
-    - [ ] Cartesian products
-    - [ ] Relations
-    - [ ] Functions
+    - Set Theory
+        - [ ] Sets
+        - [ ] Subsets
+        - [ ] Union
+        - [ ] Intersection
+        - [ ] Complement
+        - [ ] Cartesian products
+        - [ ] Relations
+        - [ ] Functions
 
-Proof Techniques
-    - [ ] Direct proof
-    - [ ] Proof by contradiction
-    - [ ] Proof by contrapositive
-    - [ ] Mathematical induction
-    - [ ] Counterexamples
+    - Proof Techniques
+        - [ ] Direct proof
+        - [ ] Proof by contradiction
+        - [ ] Proof by contrapositive
+        - [ ] Mathematical induction
+        - [ ] Counterexamples
 
-French videos
-    - [ ] Logique mathématique | cours français
-    - [ ] Théorie des ensembles | cours français
-    - [ ] Raisonnement et démonstration | cours français
-    - [ ] Récurrence mathématique | cours français
-    - [ ] 1. Calculus
-Limits & Continuity
-    - [ ] Intuitive limits
-    - [ ] Algebraic limits
-    - [ ] Infinite limits
-    - [ ] Limits at infinity
-    - [ ] Continuity
-    - [ ] Epsilon-delta definition
+    - Ressources
+        - [ ] Logique mathématique | cours français
+        - [ ] Théorie des ensembles | cours français
+        - [ ] Raisonnement et démonstration | cours français
+        - [ ] Récurrence mathématique | cours français
+        - [ ] 1. Calculus
 
-Derivatives
-    - [ ] Definition of derivative
-    - [ ] Derivative rules
-    - [ ] Product rule
-    - [ ] Quotient rule
-    - [ ] Chain rule
-    - [ ] Implicit differentiation
-    - [ ] Applications of derivatives
-    - [ ] Rates of change
-    - [ ] Optimization
+    - Limits & Continuity
+        - [ ] Intuitive limits
+        - [ ] Algebraic limits
+        - [ ] Infinite limits
+        - [ ] Limits at infinity
+        - [ ] Continuity
+        - [ ] Epsilon-delta definition
 
-Integrals
-    - [ ] Antiderivatives
-    - [ ] Definite integrals
-    - [ ] Riemann sums
-    - [ ] Fundamental theorem of calculus
-    - [ ] Integration techniques
-    - [ ] Applications of integration
+    - Derivatives
+        - [ ] Definition of derivative
+        - [ ] Derivative rules
+        - [ ] Product rule
+        - [ ] Quotient rule
+        - [ ] Chain rule
+        - [ ] Implicit differentiation
+        - [ ] Applications of derivatives
+        - [ ] Rates of change
+        - [ ] Optimization
 
-Sequences & Series
-    - [ ] Sequences
-    - [ ] Convergence
-    - [ ] Infinite series
-    - [ ] Geometric series
-    - [ ] Power series
-    - [ ] Taylor series
-    - [ ] Maclaurin series
+    - Integrals
+        - [ ] Antiderivatives
+        - [ ] Definite integrals
+        - [ ] Riemann sums
+        - [ ] Fundamental theorem of calculus
+        - [ ] Integration techniques
+        - [ ] Applications of integration
 
-French videos
-    - [ ] Maths et Tiques | Limites
-    - [ ] Maths et Tiques | Continuité
-    - [ ] Maths et Tiques | Dérivation
-    - [ ] Maths et Tiques | Applications de la dérivée
-    - [ ] Maths et Tiques | Intégrales
-    - [ ] Maths et Tiques | Suites
-    - [ ] Maths et Tiques | Séries
-    - [ ] Développement de Taylor | cours français
-    - [ ] 1. Probability & Statistics
+    - Sequences & Series
+        - [ ] Sequences
+        - [ ] Convergence
+        - [ ] Infinite series
+        - [ ] Geometric series
+        - [ ] Power series
+        - [ ] Taylor series
+        - [ ] Maclaurin series
 
-Probability
-    - [ ] Sample spaces
-    - [ ] Events
-    - [ ] Conditional probability
-    - [ ] Independence
-    - [ ] Bayes' theorem
-    - [ ] Random variables
-    - [ ] Probability distributions
+    - Ressources
+        - [ ] Maths et Tiques | Limites
+        - [ ] Maths et Tiques | Continuité
+        - [ ] Maths et Tiques | Dérivation
+        - [ ] Maths et Tiques | Applications de la dérivée
+        - [ ] Maths et Tiques | Intégrales
+        - [ ] Maths et Tiques | Suites
+        - [ ] Maths et Tiques | Séries
+        - [ ] Développement de Taylor | cours français
 
-Statistics
-    - [ ] Mean
-    - [ ] Median
-    - [ ] Variance
-    - [ ] Standard deviation
-    - [ ] Expected value
-    - [ ] Covariance
-    - [ ] Correlation
-    - [ ] Normal distribution
+2. Probability and statistics
+    - Probability
+        - [ ] Sample spaces
+        - [ ] Events
+        - [ ] Conditional probability
+        - [ ] Independence
+        - [ ] Bayes' theorem
+        - [ ] Random variables
+        - [ ] Probability distributions
+
+    - Statistics
+        - [ ] Mean
+        - [ ] Median
+        - [ ] Variance
+        - [ ] Standard deviation
+        - [ ] Expected value
+        - [ ] Covariance
+        - [ ] Correlation
+        - [ ] Normal distribution
+
     - Ressources:
         - [ ] Maths et Tiques | [stats and probability 5nd](https://youtube.com/playlist?list=PLVUDmbpupCaq-oSlU99muFSPnsApY1mHr&si=w9M_lJ0hpqZ317FS)
         - [ ] Maths et Tiques | [stats 3nd](https://youtube.com/playlist?list=PLVUDmbpupCaruSdG8-Mk7-g-IbXZ4__UB&si=aWb9_IdUwJjRwbpL)
         - [ ] Maths et Tiques | [statistics 1st Spe](https://youtube.com/playlist?list=PLVUDmbpupCapC5xlhpywAbrcCU18RPQmf&si=wdiuHcLZ0MuNdFjX)
 
-Monte Carlo Methods
+3. Monte Carlo Methods
     - [ ] Random sampling
     - [ ] Monte Carlo estimation
     - [ ] Monte Carlo integration
     - [ ] Importance sampling
     - [ ] Applications to path tracing
 
-French videos
-    - [ ] Maths et Tiques | Probabilités
-    - [ ] Maths et Tiques | Variables aléatoires
-    - [ ] Maths et Tiques | Loi normale
-    - [ ] Maths et Tiques | Espérance et variance
-    - [ ] Monte Carlo | cours français
+    - Ressources
+        - [ ] Maths et Tiques | Probabilités
+        - [ ] Maths et Tiques | Variables aléatoires
+        - [ ] Maths et Tiques | Loi normale
+        - [ ] Maths et Tiques | Espérance et variance
+        - [ ] Monte Carlo | cours français
 
 ## Phase 4 | Real Analysis & EPFL-Level Rigor
 
-13. Real Analysis
-Foundations
+1. Real Analysis
+    - Foundations
     - [ ] Rigorous definitions
     - [ ] Sets of real numbers
     - [ ] Supremum & infimum
     - [ ] Completeness of the real numbers
 
-Sequences
-    - [ ] Convergent sequences
-    - [ ] Cauchy sequences
-    - [ ] Subsequences
-    - [ ] Monotone sequences
-    - [ ] Bolzano-Weierstrass theorem
+    - Sequences
+        - [ ] Convergent sequences
+        - [ ] Cauchy sequences
+        - [ ] Subsequences
+        - [ ] Monotone sequences
+        - [ ] Bolzano-Weierstrass theorem
 
-Limits & Continuity
-    - [ ] Epsilon-delta limits
-    - [ ] Continuity
-    - [ ] Uniform continuity
-    - [ ] Intermediate value theorem
+    - Limits & Continuity
+        - [ ] Epsilon-delta limits
+        - [ ] Continuity
+        - [ ] Uniform continuity
+        - [ ] Intermediate value theorem
 
-Differentiation
-    - [ ] Rigorous definition of derivative
-    - [ ] Mean value theorem
-    - [ ] Taylor's theorem
+    - Differentiation
+        - [ ] Rigorous definition of derivative
+        - [ ] Mean value theorem
+        - [ ] Taylor's theorem
 
-Integration
-    - [ ] Riemann integration
-    - [ ] Integrability
-    - [ ] Fundamental theorem of calculus
+    - Integration
+        - [ ] Riemann integration
+        - [ ] Integrability
+        - [ ] Fundamental theorem of calculus
 
-Series
-    - [ ] Convergence tests
-    - [ ] Absolute convergence
-    - [ ] Power series
-    - [ ] Taylor series
+    - Series
+        - [ ] Convergence tests
+        - [ ] Absolute convergence
+        - [ ] Power series
+        - [ ] Taylor series
 
-French resources
-    - [ ] Analyse réelle | cours de licence
-    - [ ] Analyse mathématique | cours universitaire français
-    - [ ] Suites et séries | niveau licence
-    - [ ] Topologie de $\mathbb{R}$ | cours français
-    - [ ] Limites epsilon-delta | cours français
+    - Ressources
+        - [ ] Analyse réelle | cours de licence
+        - [ ] Analyse mathématique | cours universitaire français
+        - [ ] Suites et séries | niveau licence
+        - [ ] Limites epsilon-delta | cours français
 
 Ray Tracing Mathematics Track
 
