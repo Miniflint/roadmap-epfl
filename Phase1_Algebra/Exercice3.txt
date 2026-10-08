@@ -1,0 +1,26 @@
+Développer, réduire et ordonner les expressions suivantes sans étape de calcul :
+H=(x + 5)²
+I=(4x + 6)²
+J=(x - 5)²
+K=(3x - 7)²
+L=(y + 3)(y - 3)
+M=(2x + 5)(2x - 5)
+
+H=(x + 5)²
+H = x² + 10x + 25
+
+I=(4x + 6)²
+I = 16x² + 48x + 36
+
+// raté (reponse: x² - 10x + 25
+J=(x - 5)²
+J = x² + 25
+
+K=(3x - 7)²
+K = 9x² - 42x + 49
+
+L=(y + 3)(y - 3)
+L = y² - 9
+
+M=(2x + 5)(2x - 5)
+M=4x² - 25

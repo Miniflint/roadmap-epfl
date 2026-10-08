@@ -1,0 +1,46 @@
+On a le programme de calcul suivant :
+• Choisir un nombre entier n.
+• Mettre n au carré. Prendre le double du résultat.
+• Soustraire au résultat précédent le produit de n par l'entier qui le suit.
+Compléter cette phrase : "Ce programme revient à multiplier un nombre par ..."
+
+first try: (wrong)
+x = 2n² - (n / 2 + 1)
+
+second try: 
+x = 2n² - n(n + 1)
+x = 2n² - (n² + 1n)
+x = 2n² - n² - n
+x = n² - n
+
+added exercices:
+Les étapes du programme :
+1. Choisir un nombre entier n.
+2. Le multiplier par l'entier qui le suit.
+3. Soustraire le nombre de départ n au résultat.
+Ton travail :
+• Traduis ce programme sous forme d'expression algébrique.
+• Développe et réduis au maximum.
+• Factorise le résultat final.
+• Complète la phrase : « Ce programme revient tout simplement à calculer le... »
+
+x = n - n(n + 1)
+x = n - (n² + n)
+x = n - n² - n
+x = n²
+
+
+Les étapes du programme :
+1. Choisir un nombre entier n.
+2. Prendre le triple de son carré.
+3. Ajouter au résultat le produit par l'entier qui le suit.
+4. Soustraire le produit par lui-même.
+Ton travail :
+• Traduis ce programme sous forme d'expression algébrique.
+• Développe et réduis au maximum (attention aux familles de termes !).
+• Factorise le résultat final pour faire apparaître une multiplication par n.
+• Complète la phrase : « Ce programme revient à multiplier le nombre de départ par... »
+
+x = n - 3n² + n(n + 1)
+x = n - 3n² + n² + n
+x = 4n² 

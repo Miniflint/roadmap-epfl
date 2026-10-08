@@ -1,0 +1,21 @@
+Développer, réduire et ordonner les expressions suivantes :
+A=3(4x + 7) + 4(2x - 9)
+B=7x(2x - 5) - x(2x - 5)
+C=(2x + 5)(3x + 7)
+D=(2x - 5)(3x - 2)
+
+A = 3(4x + 7) + 4(2x - )
+A = 12x + 21 + 8x - 36
+A = 20x - 15
+
+B = 7x(2x - 5) - x(2x - 5)
+B = 6x(2x - 5)
+B = 12x² - 30x
+
+C = (2x + 5)(3x + 7)
+C = 6x² + 14x + 15x + 35
+C = 6x² + 29x + 35
+
+D = (2x - 5)(3x - 2)
+D = 6x² - 4x - 15x + 10
+D = 6x² - 19x + 10

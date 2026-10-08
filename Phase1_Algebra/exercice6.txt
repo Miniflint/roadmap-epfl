@@ -1,0 +1,14 @@
+Écrire comment effectuer mentalement les calculs suivants à l'aide des identités remarquables:
+a: 103²
+b: 98²
+c: 401*399
+
+
+a: 1060
+b: 9604
+c: 159999
+
+Calculer la valeur de 100001² puis vérifier le résultat à l'aide de la calculatrice. Que remarque-t-on ?
+a: 100001²
+
+a: 10000200001

@@ -1,0 +1,445 @@
+# Mathematics Roadmap | Foundations to EPFL
+
+Goal: Build a strong mathematical foundation, reach EPFL-level mathematical maturity, and apply mathematics to computer graphics, ray tracing, and advanced mathematics.
+
+## Phase 1 | Repair the Foundation
+
+1. Fractions
+    - [x] Addition & subtraction
+    - [x] Multiplication & division
+    - [x] Fractions | decimals | percentages
+
+    - Ressources:
+        - [x] Maths et Tiques | [Fractions 6-5](https://www.youtube.com/watch?v=m0HUFgWbgsA)
+        - [x] Maths et Tiques | [Fractions 4-3](https://www.youtube.com/watch?v=a0Qb812W75c&list=PLVUDmbpupCarGS9399o4YIbb88_ytmvpc&index=1)
+
+2. Algebraic Manipulation
+    - [ ] Variables & expressions
+    - [ ] Distributive property
+    - [ ] Combining like terms
+    - [ ] Powers & roots
+    - [ ] Linear equations
+    - [ ] Systems of linear equations
+    - [ ] Binomial expansions
+    - [ ] Algebraic fractions
+
+    - Ressources:
+        - [ ] Maths et Tiques | [Calcul littéral](https://www.youtube.com/watch?v=mbG8a5Uae30&list=PLVUDmbpupCapuHDg65cf4sNTNkYXVVGP-)
+        - [ ] Maths et Tiques | [Distributivité](https://www.youtube.com/watch?v=zRBOouW-O1c)
+        - [ ] Maths et Tiques | [Réduire une expression](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc)
+        - [ ] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
+        - [ ] Maths et Tiques | [Systèmes d'équations](https://www.youtube.com/watch?v=sWaHnxqUve0)
+        - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
+        - [ ] Maths et Tiques | [binomial 1st Spe](https://youtube.com/playlist?list=PLVUDmbpupCapTk9T979Og5lHdmUEZYD2F&si=YQOSd-MJ_a3CoV4m)
+
+
+3. Factoring
+    - [ ] Common factors
+    - [ ] Difference of squares
+    - [ ] Factoring quadratics
+    - [ ] Quadratic formula
+
+    - Resources:
+        - [ ] Maths et Tiques | [Calcul litéral (2nd)](https://www.youtube.com/watch?v=gSa851JJn6c&list=PLVUDmbpupCardIQnUIk2NsPvqKlyBU8jN)
+        - [ ] Maths et Tiques | [factorisation 3nd](https://youtube.com/playlist?list=PLVUDmbpupCapywA8L7SU16KS-9Q6j7_XZ&si=mgeS569_9Qk9WNvL)
+        - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU&list=PLVUDmbpupCaq_P1jKcKvnDoS4PG6VoXTE&index=9&t=12s)
+        - [ ] Maths et Tiques | [Équation du second degré](https://www.youtube.com/playlist?list=PLVUDmbpupCaqilBbriQYMVjn0BRBCgwdH)
+
+4. Functions
+    - [ ] What is a function?
+    - [ ] Inputs & outputs
+    - [ ] Domain & range
+    - [ ] Linear functions
+    - [ ] Graphs
+    - [ ] Slope
+    - [ ] Intercepts
+    - [ ] Quadratic functions
+    - Ressource
+        - [ ] Maths et Tiques | Fonctions
+        - [ ] Maths et Tiques | Représentation graphique d'une fonction
+        - [ ] Maths et Tiques | Coefficient directeur
+
+## Phase 2 | Mathematics for Graphics & Engineering
+
+1. Geometry
+    - [ ] Angles
+    - [ ] Triangles
+    - [ ] Pythagorean theorem
+    - [ ] Distance formula
+    - [ ] 2D coordinates
+    - [ ] 3D coordinates
+    - [ ] Circles
+    - [ ] Spheres
+    - [ ] Planes
+    - [ ] Distance between points
+    - [ ] Distance from a point to a plane
+
+    - Ressources
+        - [ ] Maths et Tiques | Géométrie
+        - [ ] Maths et Tiques | Théorème de Pythagore
+        - [ ] Maths et Tiques | Distance entre deux points
+
+1. Trigonometry
+    - [ ] Degrees vs radians
+    - [ ] SOH-CAH-TOA
+    - [ ] Unit circle
+    - [ ] Sine
+    - [ ] Cosine
+    - [ ] Tangent
+    - [ ] Inverse trigonometric functions
+    - [ ] Fundamental trigonometric identities
+    - [ ] Trigonometric equations
+
+French videos
+    - [ ] Maths et Tiques | Trigonométrie
+    - [ ] Maths et Tiques | Cercle trigonométrique
+    - [ ] Maths et Tiques | Sinus, cosinus et tangente
+
+1. Vectors
+    - [ ] 2D vectors
+    - [ ] 3D vectors
+    - [ ] Vector addition
+    - [ ] Vector subtraction
+    - [ ] Scalar multiplication
+    - [ ] Magnitude / norm
+    - [ ] Normalization
+    - [ ] Dot product
+    - [ ] Angles between vectors
+    - [ ] Vector projection
+    - [ ] Reflection
+    - [ ] Cross product
+    - [ ] Surface normals
+
+French videos
+    - [ ] Maths et Tiques | Vecteurs
+    - [ ] Maths et Tiques | Produit scalaire
+    - [ ] Cours français | Produit vectoriel
+    - [ ] Cours français | Projection orthogonale
+
+Ray tracing applications
+    - [ ] Implement a Vec3 class
+    - [ ] Implement vector addition/subtraction
+    - [ ] Implement scalar multiplication
+    - [ ] Implement magnitude & normalization
+    - [ ] Implement dot product
+    - [ ] Calculate angles between vectors
+    - [ ] Calculate projections
+    - [ ] Calculate reflections
+    - [ ] Calculate surface normals
+
+1. Linear Algebra
+Matrices
+    - [ ] Matrix basics
+    - [ ] Matrix addition
+    - [ ] Matrix multiplication
+    - [ ] Determinants
+    - [ ] Matrix inverses
+    - [ ] Identity matrix
+    - [ ] Matrix ↔ vector transformations
+
+Transformations
+    - [ ] Translation
+    - [ ] Scaling
+    - [ ] Rotation
+    - [ ] 2D transformations
+    - [ ] 3D transformations
+    - [ ] Coordinate systems
+    - [ ] Change of basis
+    - [ ] Homogeneous coordinates
+
+Abstract Linear Algebra
+    - [ ] Linear transformations
+    - [ ] Linear independence
+    - [ ] Span
+    - [ ] Basis
+    - [ ] Dimension
+    - [ ] Vector spaces
+
+French videos
+    - [ ] Algèbre linéaire | cours français
+    - [ ] Maths et Tiques | Matrices
+    - [ ] Cours français | Déterminants
+    - [ ] Cours français | Applications linéaires
+    - [ ] Cours français | Familles libres et génératrices
+    - [ ] Cours français | Bases et dimension
+
+Ray tracing applications
+    - [ ] Transformation matrices
+    - [ ] Camera transformations
+    - [ ] World → camera coordinates
+    - [ ] Camera → screen coordinates
+    - [ ] Rotation matrices
+    - [ ] Scaling matrices
+    - [ ] Transformation composition
+
+1. Exponents, Roots & Logarithms
+    - [ ] Laws of exponents
+    - [ ] Negative exponents
+    - [ ] Fractional exponents
+    - [ ] Radicals
+    - [ ] Exponential functions
+    - [ ] Logarithms
+    - [ ] Laws of logarithms
+    - [ ] Exponential equations
+    - [ ] Logarithmic equations
+
+French videos
+    - [ ] Maths et Tiques | Puissances
+    - [ ] Maths et Tiques | Racines carrées
+    - [ ] Maths et Tiques | Exponentielle
+    - [ ] Maths et Tiques | Logarithme
+
+## Phase 3 | Mathematical Maturity
+
+10. Discrete Mathematics & Proofs
+Logic
+    - [ ] Propositions
+    - [ ] Logical operators
+    - [ ] Truth tables
+    - [ ] Implication
+    - [ ] Equivalence
+    - [ ] Quantifiers
+
+Set Theory
+    - [ ] Sets
+    - [ ] Subsets
+    - [ ] Union
+    - [ ] Intersection
+    - [ ] Complement
+    - [ ] Cartesian products
+    - [ ] Relations
+    - [ ] Functions
+
+Proof Techniques
+    - [ ] Direct proof
+    - [ ] Proof by contradiction
+    - [ ] Proof by contrapositive
+    - [ ] Mathematical induction
+    - [ ] Counterexamples
+
+French videos
+    - [ ] Logique mathématique | cours français
+    - [ ] Théorie des ensembles | cours français
+    - [ ] Raisonnement et démonstration | cours français
+    - [ ] Récurrence mathématique | cours français
+    - [ ] 1. Calculus
+Limits & Continuity
+    - [ ] Intuitive limits
+    - [ ] Algebraic limits
+    - [ ] Infinite limits
+    - [ ] Limits at infinity
+    - [ ] Continuity
+    - [ ] Epsilon-delta definition
+
+Derivatives
+    - [ ] Definition of derivative
+    - [ ] Derivative rules
+    - [ ] Product rule
+    - [ ] Quotient rule
+    - [ ] Chain rule
+    - [ ] Implicit differentiation
+    - [ ] Applications of derivatives
+    - [ ] Rates of change
+    - [ ] Optimization
+
+Integrals
+    - [ ] Antiderivatives
+    - [ ] Definite integrals
+    - [ ] Riemann sums
+    - [ ] Fundamental theorem of calculus
+    - [ ] Integration techniques
+    - [ ] Applications of integration
+
+Sequences & Series
+    - [ ] Sequences
+    - [ ] Convergence
+    - [ ] Infinite series
+    - [ ] Geometric series
+    - [ ] Power series
+    - [ ] Taylor series
+    - [ ] Maclaurin series
+
+French videos
+    - [ ] Maths et Tiques | Limites
+    - [ ] Maths et Tiques | Continuité
+    - [ ] Maths et Tiques | Dérivation
+    - [ ] Maths et Tiques | Applications de la dérivée
+    - [ ] Maths et Tiques | Intégrales
+    - [ ] Maths et Tiques | Suites
+    - [ ] Maths et Tiques | Séries
+    - [ ] Développement de Taylor | cours français
+    - [ ] 1. Probability & Statistics
+
+Probability
+    - [ ] Sample spaces
+    - [ ] Events
+    - [ ] Conditional probability
+    - [ ] Independence
+    - [ ] Bayes' theorem
+    - [ ] Random variables
+    - [ ] Probability distributions
+
+Statistics
+    - [ ] Mean
+    - [ ] Median
+    - [ ] Variance
+    - [ ] Standard deviation
+    - [ ] Expected value
+    - [ ] Covariance
+    - [ ] Correlation
+    - [ ] Normal distribution
+    - Ressources:
+        - [ ] Maths et Tiques | [stats and probability 5nd](https://youtube.com/playlist?list=PLVUDmbpupCaq-oSlU99muFSPnsApY1mHr&si=w9M_lJ0hpqZ317FS)
+        - [ ] Maths et Tiques | [stats 3nd](https://youtube.com/playlist?list=PLVUDmbpupCaruSdG8-Mk7-g-IbXZ4__UB&si=aWb9_IdUwJjRwbpL)
+        - [ ] Maths et Tiques | [statistics 1st Spe](https://youtube.com/playlist?list=PLVUDmbpupCapC5xlhpywAbrcCU18RPQmf&si=wdiuHcLZ0MuNdFjX)
+
+Monte Carlo Methods
+    - [ ] Random sampling
+    - [ ] Monte Carlo estimation
+    - [ ] Monte Carlo integration
+    - [ ] Importance sampling
+    - [ ] Applications to path tracing
+
+French videos
+    - [ ] Maths et Tiques | Probabilités
+    - [ ] Maths et Tiques | Variables aléatoires
+    - [ ] Maths et Tiques | Loi normale
+    - [ ] Maths et Tiques | Espérance et variance
+    - [ ] Monte Carlo | cours français
+
+## Phase 4 | Real Analysis & EPFL-Level Rigor
+
+13. Real Analysis
+Foundations
+    - [ ] Rigorous definitions
+    - [ ] Sets of real numbers
+    - [ ] Supremum & infimum
+    - [ ] Completeness of the real numbers
+
+Sequences
+    - [ ] Convergent sequences
+    - [ ] Cauchy sequences
+    - [ ] Subsequences
+    - [ ] Monotone sequences
+    - [ ] Bolzano-Weierstrass theorem
+
+Limits & Continuity
+    - [ ] Epsilon-delta limits
+    - [ ] Continuity
+    - [ ] Uniform continuity
+    - [ ] Intermediate value theorem
+
+Differentiation
+    - [ ] Rigorous definition of derivative
+    - [ ] Mean value theorem
+    - [ ] Taylor's theorem
+
+Integration
+    - [ ] Riemann integration
+    - [ ] Integrability
+    - [ ] Fundamental theorem of calculus
+
+Series
+    - [ ] Convergence tests
+    - [ ] Absolute convergence
+    - [ ] Power series
+    - [ ] Taylor series
+
+French resources
+    - [ ] Analyse réelle | cours de licence
+    - [ ] Analyse mathématique | cours universitaire français
+    - [ ] Suites et séries | niveau licence
+    - [ ] Topologie de $\mathbb{R}$ | cours français
+    - [ ] Limites epsilon-delta | cours français
+
+Ray Tracing Mathematics Track
+
+Apply the mathematics directly to the ray tracer instead of learning everything in isolation.
+
+Foundation
+    - [ ] Fractions
+    - [ ] Algebra
+    - [ ] Functions
+    - [ ] Coordinate geometry
+
+Ray Geometry
+    - [ ] 3D points
+    - [ ] 3D vectors
+    - [ ] Ray equations
+    - [ ] Ray-plane intersection
+    - [ ] Ray-sphere intersection
+    - [ ] Ray-triangle intersection
+
+Lighting
+    - [ ] Dot product
+    - [ ] Surface normals
+    - [ ] Reflection
+    - [ ] Angles
+    - [ ] Lambertian shading
+    - [ ] Specular reflection
+
+Transformations
+    - [ ] Matrices
+    - [ ] Translation
+    - [ ] Rotation
+    - [ ] Scaling
+    - [ ] Camera transformations
+    - [ ] Coordinate spaces
+
+Advanced Rendering
+    - [ ] Probability
+    - [ ] Random sampling
+    - [ ] Monte Carlo integration
+    - [ ] Importance sampling
+    - [ ] Path tracing
+    - [ ] BRDFs
+    - [ ] Radiometry
+
+Study Method
+
+For every mathematical topic:
+    - [ ] Watch a lesson
+    - [ ] Take concise notes
+    - [ ] Solve basic exercises
+    - [ ] Solve harder exercises
+    - [ ] Solve problems without looking at notes
+    - [ ] Explain the concept in my own words
+    - [ ] Implement it in code when applicable
+    - [ ] Mark the topic complete only when I can use it independently
+
+Don't measure progress by videos watched. Measure progress by problems you can solve without help.
+
+Definition of "Done"
+
+A topic is complete when I can:
+    - [ ] Explain the concept in my own words
+    - [ ] Recall the important definitions and formulas
+    - [ ] Solve standard exercises
+    - [ ] Solve unfamiliar problems
+    - [ ] Recognize when the concept is useful
+    - [ ] Derive important formulas when appropriate
+    - [ ] Apply the concept to programming when relevant
+    - [ ] Solve problems without relying on a tutorial
+
+Main Learning Resource
+Primary French Resource
+    - [ ] Maths et Tiques | Yves Monka
+
+Use Maths et Tiques as the primary resource for foundational mathematics.
+
+For topics that go beyond the high-school curriculum, supplement it with French university-level courses.
+
+Final Goal
+
+By the end of this roadmap, I want to be able to:
+    - [ ] Understand mathematics rather than memorize formulas
+    - [ ] Solve unfamiliar mathematical problems
+    - [ ] Read university-level mathematics
+    - [ ] Follow EPFL-level mathematics courses
+    - [ ] Write mathematical proofs
+    - [ ] Understand calculus and analysis rigorously
+    - [ ] Understand linear algebra both geometrically and abstractly
+    - [ ] Apply mathematics to computer graphics
+    - [ ] Build a mathematically correct ray tracer
+    - [ ] Understand the mathematics behind path tracing and Monte Carlo rendering
+    - [ ] Continue independently into higher mathematics

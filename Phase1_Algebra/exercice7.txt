@@ -1,0 +1,42 @@
+Sur la figure ci-contre, le carré ABCD a pour côté (2x + 3) centimètres.
+Afin d'obtenir une bande de 1cm de large, on découpe un petit carré à
+l'intérieur du grand carré.
+Exprimer l'aire de la bande grise en fonction de x.
+
+première correction fausse:
+A = 4(2x + 3) - 4((2x + 3) - 1)
+
+deuxième correction:
+A = (2x + 3)² - (2x + 1)²
+A = (4x² + 12x + 9) - (4x² + 4x + 1)
+A = 4x² + 12x + 9 - 4x² - 4x - 1
+A = 12x + 9 - 4x - 1
+A = 8x + 8
+
+
+added exercices:
+Challenge 1:
+The Setup:
+A family wants to build a square swimming pool in their backyard.
+They want a paved walkway that is exactly 2 meters wide all the way around the pool.
+Let the side length of the square pool itself be x meters.
+Your Task:
+Find the simplified algebraic expression for the total area of the paved walkway
+only in terms of x.
+
+A = (x + 4)² - x²
+
+Challenge 2:
+The Setup: Think of any number.
+1. Add 3 to it.
+2. Square the result.
+3. Subtract the square of the original number.
+4. Subtract 9.
+Your Task:
+Translate this game into an algebraic expression using a variable 'n'
+Expand and simplify it to find the "secret rule" of the game.
+What does this trick always do to your original number?
+
+x = (n + 3)² - n² - 9
+x = (n² + 6n + 9) - n² - 9
+x = 6n
