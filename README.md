@@ -126,7 +126,7 @@ By the end of this roadmap, I want to be able to:
     - [ ] Trigonometric equations
 
     - Ressources
-        - [ ] Maths et Tiques | Trigonométrie
+        - [ ] Maths et Tiques | [trigonometry 1st Spe](https://youtube.com/playlist?list=PLVUDmbpupCaoe-DFeNHmtccUo3D6kns3q&si=xlAUdYGFhRE3wcuz)
         - [ ] Maths et Tiques | Cercle trigonométrique
         - [ ] Maths et Tiques | Sinus, cosinus et tangente
 
