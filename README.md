@@ -374,5 +374,3 @@ Primary Resource:
 
 - Youtube: [Maths et Tiques | Yves Monka](https://www.youtube.com/@YMONKA)
 - Website: [Maths et Tiques | Yves Monka](https://maths-et-tiques.fr/)
-
-Use Maths et Tiques as the primary resource for foundational mathematics.
