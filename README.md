@@ -2,9 +2,29 @@
 
 Goal: Build a strong mathematical foundation, reach EPFL-level mathematical maturity, and apply mathematics to computer graphics, ray tracing, and advanced mathematics.
 
-## Phase 1 | Repair the Foundation
+## Prelude
 
-1. Fractions
+__A box ONLY is ticked when:__
+
+1. Explain the concept in my own words
+2. Recall the important definitions and formulas
+3. Solve standard exercises
+4. Solve unfamiliar problems
+5. Recognize when the concept is useful
+6. Derive important formulas when appropriate
+7. Apply the concept to programming when relevant
+8. Solve problems without relying on a tutorial
+
+## Phase 1 | Get the foundations
+
+1. General
+    - [x] Addition & subtraction
+    - [x] Multiplication & division
+    - [x] Rule of signs
+    - [x] Powers & roots
+    - [x] Order of operations
+
+2. Fractions
     - [x] Addition & subtraction
     - [x] Multiplication & division
     - [x] Fractions | decimals | percentages
@@ -13,7 +33,7 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [x] Maths et Tiques | [Fractions 6-5](https://www.youtube.com/watch?v=m0HUFgWbgsA)
         - [x] Maths et Tiques | [Fractions 4-3](https://www.youtube.com/watch?v=a0Qb812W75c&list=PLVUDmbpupCarGS9399o4YIbb88_ytmvpc&index=1)
 
-2. Algebraic Manipulation
+3. Algebraic Manipulation
     - [x] Variables & expressions
     - [ ] Distributive property
     - [x] Combining like terms
@@ -32,8 +52,7 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
         - [ ] Maths et Tiques | [binomial 1st Spe](https://youtube.com/playlist?list=PLVUDmbpupCapTk9T979Og5lHdmUEZYD2F&si=YQOSd-MJ_a3CoV4m)
 
-
-3. Factoring
+4. Factoring
     - [ ] Common factors
     - [ ] Difference of squares
     - [ ] Factoring quadratics
@@ -45,7 +64,7 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU&list=PLVUDmbpupCaq_P1jKcKvnDoS4PG6VoXTE&index=9&t=12s)
         - [ ] Maths et Tiques | [Équation du second degré](https://www.youtube.com/playlist?list=PLVUDmbpupCaqilBbriQYMVjn0BRBCgwdH)
 
-4. Functions
+5. Functions
     - [ ] What is a function?
     - [ ] Inputs & outputs
     - [ ] Domain & range
@@ -116,7 +135,7 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [ ] Cours français | Produit vectoriel
         - [ ] Cours français | Projection orthogonale
 
-## PHASE 2.5 | Debut of algebra
+## PHASE 3 | Debut of algebra
 
 1. Linear Algebra
     - Matrices
@@ -171,7 +190,7 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [ ] Maths et Tiques | Exponentielle
         - [ ] Maths et Tiques | Logarithme
 
-## Phase 3 | Mathematical Maturity
+## Phase 4 | Mathematical Maturity
 
 1. Discrete Mathematics & Proofs
     - Logic
@@ -291,7 +310,7 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [ ] Maths et Tiques | Espérance et variance
         - [ ] Monte Carlo | cours français
 
-## Phase 4 | Real Analysis & EPFL-Level Rigor
+## Phase 5 | Real Analysis & EPFL-Level Rigor
 
 1. Real Analysis
     - Foundations
@@ -334,75 +353,6 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
         - [ ] Analyse mathématique | cours universitaire français
         - [ ] Suites et séries | niveau licence
         - [ ] Limites epsilon-delta | cours français
-
-Ray Tracing Mathematics Track
-
-Apply the mathematics directly to the ray tracer instead of learning everything in isolation.
-
-Foundation
-    - [ ] Fractions
-    - [ ] Algebra
-    - [ ] Functions
-    - [ ] Coordinate geometry
-
-Ray Geometry
-    - [ ] 3D points
-    - [ ] 3D vectors
-    - [ ] Ray equations
-    - [ ] Ray-plane intersection
-    - [ ] Ray-sphere intersection
-    - [ ] Ray-triangle intersection
-
-Lighting
-    - [ ] Dot product
-    - [ ] Surface normals
-    - [ ] Reflection
-    - [ ] Angles
-    - [ ] Lambertian shading
-    - [ ] Specular reflection
-
-Transformations
-    - [ ] Matrices
-    - [ ] Translation
-    - [ ] Rotation
-    - [ ] Scaling
-    - [ ] Camera transformations
-    - [ ] Coordinate spaces
-
-Advanced Rendering
-    - [ ] Probability
-    - [ ] Random sampling
-    - [ ] Monte Carlo integration
-    - [ ] Importance sampling
-    - [ ] Path tracing
-    - [ ] BRDFs
-    - [ ] Radiometry
-
-Study Method
-
-For every mathematical topic:
-    - [ ] Watch a lesson
-    - [ ] Take concise notes
-    - [ ] Solve basic exercises
-    - [ ] Solve harder exercises
-    - [ ] Solve problems without looking at notes
-    - [ ] Explain the concept in my own words
-    - [ ] Implement it in code when applicable
-    - [ ] Mark the topic complete only when I can use it independently
-
-Don't measure progress by videos watched. Measure progress by problems you can solve without help.
-
-Definition of "Done"
-
-A topic is complete when I can:
-    - [ ] Explain the concept in my own words
-    - [ ] Recall the important definitions and formulas
-    - [ ] Solve standard exercises
-    - [ ] Solve unfamiliar problems
-    - [ ] Recognize when the concept is useful
-    - [ ] Derive important formulas when appropriate
-    - [ ] Apply the concept to programming when relevant
-    - [ ] Solve problems without relying on a tutorial
 
 Main Learning Resource
 Primary French Resource
