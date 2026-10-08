@@ -370,9 +370,9 @@ By the end of this roadmap, I want to be able to:
         - [ ] Suites et séries | niveau licence
         - [ ] Limites epsilon-delta | cours français
 
-Main Resource
-Primary Resource
-    - [ ] Youtube: [Maths et Tiques | Yves Monka](https://www.youtube.com/@YMONKA)
-    - [ ] Website: [Maths et Tiques | Yves Monka](https://maths-et-tiques.fr/)
+Primary Resource:
+
+- Youtube: [Maths et Tiques | Yves Monka](https://www.youtube.com/@YMONKA)
+- Website: [Maths et Tiques | Yves Monka](https://maths-et-tiques.fr/)
 
 Use Maths et Tiques as the primary resource for foundational mathematics.
