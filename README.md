@@ -365,14 +365,15 @@ For topics that go beyond the high-school curriculum, supplement it with French 
 Final Goal
 
 By the end of this roadmap, I want to be able to:
-    - [ ] Understand mathematics rather than memorize formulas
-    - [ ] Solve unfamiliar mathematical problems
-    - [ ] Read university-level mathematics
-    - [ ] Follow EPFL-level mathematics courses
-    - [ ] Write mathematical proofs
-    - [ ] Understand calculus and analysis rigorously
-    - [ ] Understand linear algebra both geometrically and abstractly
-    - [ ] Apply mathematics to computer graphics
-    - [ ] Build a mathematically correct ray tracer
-    - [ ] Understand the mathematics behind path tracing and Monte Carlo rendering
-    - [ ] Continue independently into higher mathematics
+
+1. [ ] Understand mathematics rather than memorize formulas
+2. [ ] Solve unfamiliar mathematical problems
+3. [ ] Read university-level mathematics
+4. [ ] Follow EPFL-level mathematics courses
+5. [ ] Write mathematical proofs
+6. [ ] Understand calculus and analysis rigorously
+7. [ ] Understand linear algebra both geometrically and abstractly
+8. [ ] Apply mathematics to computer graphics
+9. [ ] Build a mathematically correct ray tracer
+10. [ ] Understand the mathematics behind path tracing and Monte Carlo rendering
+11. [ ] Continue independently into higher mathematics
