@@ -295,10 +295,10 @@ Goal: Build a strong mathematical foundation, reach EPFL-level mathematical matu
 
 1. Real Analysis
     - Foundations
-    - [ ] Rigorous definitions
-    - [ ] Sets of real numbers
-    - [ ] Supremum & infimum
-    - [ ] Completeness of the real numbers
+        - [ ] Rigorous definitions
+        - [ ] Sets of real numbers
+        - [ ] Supremum & infimum
+        - [ ] Completeness of the real numbers
 
     - Sequences
         - [ ] Convergent sequences
