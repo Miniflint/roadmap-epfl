@@ -61,8 +61,8 @@ By the end of this roadmap, I want to be able to:
 
     - Ressources:
         - [x] Maths et Tiques | [Calcul littéral](https://www.youtube.com/watch?v=mbG8a5Uae30&list=PLVUDmbpupCapuHDg65cf4sNTNkYXVVGP-)
-        - [ ] Maths et Tiques | [Distributivité](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc&index=1&t=1016s)
-        - [ ] Maths et Tiques | [Réduire une expression](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc)
+        - [x] Maths et Tiques | [Distributivité](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc&index=1&t=1016s)
+        - [x] Maths et Tiques | [Réduire une expression](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc)
         - [ ] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
         - [ ] Maths et Tiques | [Systèmes d'équations](https://www.youtube.com/watch?v=sWaHnxqUve0)
         - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
