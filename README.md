@@ -51,11 +51,11 @@ By the end of this roadmap, I want to be able to:
 
 3. Algebraic Manipulation
     - [x] Variables & expressions
-    - [ ] Distributive property
+    - [x] Distributive property
     - [x] Combining like terms
     - [ ] Powers & roots
-    - [ ] Linear equations
-    - [ ] Systems of linear equations
+    - [x] Linear equations
+    - [x] Systems of linear equations
     - [x] Binomial expansions
     - [ ] Algebraic fractions
 
@@ -63,8 +63,8 @@ By the end of this roadmap, I want to be able to:
         - [x] Maths et Tiques | [Calcul littéral](https://www.youtube.com/watch?v=mbG8a5Uae30&list=PLVUDmbpupCapuHDg65cf4sNTNkYXVVGP-)
         - [x] Maths et Tiques | [Distributivité](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc&index=1&t=1016s)
         - [x] Maths et Tiques | [Réduire une expression](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc)
-        - [ ] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
-        - [ ] Maths et Tiques | [Systèmes d'équations](https://www.youtube.com/watch?v=sWaHnxqUve0)
+        - [x] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
+        - [x] Maths et Tiques | [Systèmes d'équations](https://www.youtube.com/watch?v=sWaHnxqUve0)
         - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
         - [ ] Maths et Tiques | [binomial 1st Spe](https://youtube.com/playlist?list=PLVUDmbpupCapTk9T979Og5lHdmUEZYD2F&si=YQOSd-MJ_a3CoV4m)
 
