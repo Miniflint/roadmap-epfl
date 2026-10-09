@@ -66,7 +66,6 @@ By the end of this roadmap, I want to be able to:
         - [x] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
         - [x] Maths et Tiques | [Systèmes d'équations](https://www.youtube.com/watch?v=sWaHnxqUve0)
         - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
-        - [ ] Maths et Tiques | [binomial 1st Spe](https://youtube.com/playlist?list=PLVUDmbpupCapTk9T979Og5lHdmUEZYD2F&si=YQOSd-MJ_a3CoV4m)
 
 4. Factoring
     - [ ] Common factors
