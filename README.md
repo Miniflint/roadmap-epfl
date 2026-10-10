@@ -45,6 +45,10 @@ By the end of this roadmap, I want to be able to:
     - [x] Multiplication & division
     - [x] Fractions | decimals | percentages
 
+    - Ressources:
+        - [x] Maths et Tiques | [Fractions 6-5](https://www.youtube.com/watch?v=m0HUFgWbgsA)
+        - [x] Maths et Tiques | [Fractions 4-3](https://www.youtube.com/watch?v=a0Qb812W75c&list=PLVUDmbpupCarGS9399o4YIbb88_ytmvpc&index=1)
+
 3. Algebraic Manipulation
     - [x] Variables & expressions
     - [x] Distributive property
