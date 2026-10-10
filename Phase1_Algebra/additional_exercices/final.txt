@@ -1,0 +1,42 @@
+The situation
+Imagine a large square garden. Inside it, there is a smaller square pond that you want to build.
+The garden has a side length of:
+L = (2x + 6)/2 + sqrt(9/4)
+
+The pond is also a square, and its side length is:
+l = sqrt((x + 1)²) + (x - 3)/2
+
+The pond is entirely inside the garden.
+The area of the garden that isn't covered by the pond is the remaining area.
+Your goal is to determine the value of x for which the remaining area is exactly 48 square units.
+Assume x≥3.
+The remaining area of the garden, excluding the pond, is 48 square units.
+
+Your tasks:
+1: Simplify L as much as possible.
+2: Simplify l as much as possible.
+3: Write the expression for the garden's area.
+4: Develop and simplify the expression for the garden's area.
+5: Write the expression for the pond's area.
+6: Develop and simplify the expression for the pond's area.
+7: Write the equation for the remaining area using your expressions from questions 4 and 6.
+8: Simplify the equation by combining like terms.
+9: Solve the equation to find x.
+10: Substitute your value of x into the original expression for L and calculate the garden's side length.
+11: Substitute your value of x into the original expression for l and calculate the pond's side length.
+12: Calculate the garden's area.
+13: Calculate the pond's area.
+14: Verify that the remaining area is exactly 48 square units.
+15: Explain briefly why each transformation you made is mathematically valid.
+
+1: L = (2x + 6)/2 + sqrt(9/4) | (x + 3) + sqrt(9)/sqrt(4) | (x + 3) + 3/2 | (2x + 6)/2 + 3/2 | (2x + 6 + 3)/2 | L = (2x + 9)/2
+2: l = sqrt((x + 1)²) + (x - 3)/2 = (x + 1) + (x - 3)/2 | (2x + 2)/2 + (x - 3)/2 | (2x + x + 2 - 3)/2 | l = (3x - 1)/2
+3: assume A as garden area: A = L² = ((2x + 9)/2)²
+4: ((2x + 9)/2)² = (2x + 9)²/2² = (4x² + 36x + 81)/4
+5: assume B is pond's area: B = l² = ((3x - 1)/2)²
+6: ((3x - 1)/2)² = (3x - 1)²/2² = (9x² - 6x + 1)/4
+7: assume C as remaining garden area: C = A - B = (4x² + 36x + 81)/4 - (9x² - 6x + 1)/4 = (4x² - 9x² + 36x + 6x + 81 - 1)/4 = (-5x² + 42x + 80)/4
+8: (-5x² + 42x + 80)/4
+9: (-5x² + 42x + 80)/4 = 48 | -5x² + 42x = 48 * 4 - 80 | -5x² + 42x = 112 | 
+i looked up help on internet. to solve this it's a "discriminant" i haven't seen that yet but i'll try |
+-5x² + 42x = 112 | -5x² + 42x -112 = 0 | 

@@ -1,0 +1,15 @@
+The problem
+A square has a side length of 2x + 3.
+Its area is therefore:
+
+1: Rewrite the square as a multiplication of two identical factors.
+2: Develop the expression using distributivity.
+3: Simplify the result.
+4: Calculate the area when x=2.
+5: If the area is 49 and x≥0, find x.
+
+1: (2x + 3)(2x + 3)
+2: 4x² + 6x + 6x + 9
+3: 4x² + 12x + 9
+4: (2(2) + 3)² = (7)² = 49
+5: x = 2

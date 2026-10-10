@@ -1,0 +1,16 @@
+The problem
+A square has a side length of 3x+2.
+Its area is:
+C = (3x + 2)²
+
+1: Write the expression as a product of two identical factors.
+2: Develop and simplify the expression.
+3: Calculate the area when x=2.
+4: Solve the equation: (3x+2)²=64
+5: Explain why you need to consider the square root when solving the equation.
+
+1: (3x + 2)(3x + 2)
+2: 9x² + 12x + 4
+3: (3(2) + 2)² = 8² = 64
+4: (3x + 2) = sqrt(64) = +-8 | 3x = 6 | x = 2 || 3x + 2 = -8 | 3x = -10 | x = -(10/3)
+5: since a square area is l² the way to reverse is finding which number times itself = l². which use a square root

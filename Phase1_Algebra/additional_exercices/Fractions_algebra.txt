@@ -1,0 +1,16 @@
+The problem
+Consider the expression:
+
+B = (2x + 4)/2 + (x - 3)/2
+
+1: Simplify each fraction.
+2: Combine the two terms.
+3: Find the value of B when x=4.
+4: Find x when B=5.
+5: Check your answer by substituting your value of x into the original expression.
+
+1: (x + 2)/1 + (x - 3)/2
+2: (2x + 4)/2 + (x - 3)/2 = (2x + x - 3 + 4)/2 = (3x + 1)/2
+3: B = (4 + 2)/1 + (4 - 3)/2 = 6 + 1/2 = 6.5 | B = 6.5
+4: (3x + 1)/2 = 5 |3x = 5 * 2 - 1 | 3x = 9 | x = 3
+5: 5 = (2x + 4)/2 + (x - 3)/2 | 5 = (2(3) + 4)/2 + (3 - 3)/2 | 5 = (6 + 4)/2 + 0 | 5 = (10)/2 + 0 | 5 = 5
