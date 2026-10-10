@@ -156,6 +156,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Matrix inverses
         - [ ] Identity matrix
         - [ ] Matrix ↔ vector transformations
+
     - Transformations
         - [ ] Translation
         - [ ] Scaling
@@ -165,6 +166,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Coordinate systems
         - [ ] Change of basis
         - [ ] Homogeneous coordinates
+
     - Abstract Linear Algebra
         - [ ] Linear transformations
         - [ ] Linear independence
@@ -172,6 +174,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Basis
         - [ ] Dimension
         - [ ] Vector spaces
+
     - Ressources
         - [ ] Algèbre linéaire | cours français
         - [ ] Maths et Tiques | Matrices
@@ -206,6 +209,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Implication
         - [ ] Equivalence
         - [ ] Quantifiers
+
     - Set Theory
         - [ ] Sets
         - [ ] Subsets
@@ -215,18 +219,13 @@ By the end of this roadmap, I want to be able to:
         - [ ] Cartesian products
         - [ ] Relations
         - [ ] Functions
+
     - Proof Techniques
         - [ ] Direct proof
         - [ ] Proof by contradiction
         - [ ] Proof by contrapositive
         - [ ] Mathematical induction
         - [ ] Counterexamples
-    - Ressources
-        - [ ] Logique mathématique | cours français
-        - [ ] Théorie des ensembles | cours français
-        - [ ] Raisonnement et démonstration | cours français
-        - [ ] Récurrence mathématique | cours français
-        - [ ] 1. Calculus
 
     - Limits & Continuity
         - [ ] Intuitive limits
@@ -235,6 +234,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Limits at infinity
         - [ ] Continuity
         - [ ] Epsilon-delta definition
+
     - Derivatives
         - [ ] Definition of derivative
         - [ ] Derivative rules
@@ -245,6 +245,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Applications of derivatives
         - [ ] Rates of change
         - [ ] Optimization
+
     - Integrals
         - [ ] Antiderivatives
         - [ ] Definite integrals
@@ -252,6 +253,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Fundamental theorem of calculus
         - [ ] Integration techniques
         - [ ] Applications of integration
+
     - Sequences & Series
         - [ ] Sequences
         - [ ] Convergence
@@ -260,6 +262,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Power series
         - [ ] Taylor series
         - [ ] Maclaurin series
+
     - Ressources
         - [ ] Maths et Tiques | Limites
         - [ ] Maths et Tiques | Continuité
@@ -269,6 +272,11 @@ By the end of this roadmap, I want to be able to:
         - [ ] Maths et Tiques | Suites
         - [ ] Maths et Tiques | Séries
         - [ ] Développement de Taylor | cours français
+        - [ ] Logique mathématique | cours français
+        - [ ] Théorie des ensembles | cours français
+        - [ ] Raisonnement et démonstration | cours français
+        - [ ] Récurrence mathématique | cours français
+        - [ ] 1. Calculus
 
 2. Probability and statistics
     - Probability
@@ -279,6 +287,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Bayes' theorem
         - [ ] Random variables
         - [ ] Probability distributions
+
     - Statistics
         - [ ] Mean
         - [ ] Median
@@ -288,6 +297,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Covariance
         - [ ] Correlation
         - [ ] Normal distribution
+
     - Ressources:
         - [ ] Maths et Tiques | [stats and probability 5nd](https://youtube.com/playlist?list=PLVUDmbpupCaq-oSlU99muFSPnsApY1mHr&si=w9M_lJ0hpqZ317FS)
         - [ ] Maths et Tiques | [stats 3nd](https://youtube.com/playlist?list=PLVUDmbpupCaruSdG8-Mk7-g-IbXZ4__UB&si=aWb9_IdUwJjRwbpL)
@@ -314,30 +324,36 @@ By the end of this roadmap, I want to be able to:
         - [ ] Sets of real numbers
         - [ ] Supremum & infimum
         - [ ] Completeness of the real numbers
+
     - Sequences
         - [ ] Convergent sequences
         - [ ] Cauchy sequences
         - [ ] Subsequences
         - [ ] Monotone sequences
         - [ ] Bolzano-Weierstrass theorem
+
     - Limits & Continuity
         - [ ] Epsilon-delta limits
         - [ ] Continuity
         - [ ] Uniform continuity
         - [ ] Intermediate value theorem
+
     - Differentiation
         - [ ] Rigorous definition of derivative
         - [ ] Mean value theorem
         - [ ] Taylor's theorem
+
     - Integration
         - [ ] Riemann integration
         - [ ] Integrability
         - [ ] Fundamental theorem of calculus
+
     - Series
         - [ ] Convergence tests
         - [ ] Absolute convergence
         - [ ] Power series
         - [ ] Taylor series$
+
     - Ressources
         - [ ] Analyse réelle | cours de licence
         - [ ] Analyse mathématique | cours universitaire français
