@@ -37,6 +37,28 @@ Your tasks:
 6: ((3x - 1)/2)² = (3x - 1)²/2² = (9x² - 6x + 1)/4
 7: assume C as remaining garden area: C = A - B = (4x² + 36x + 81)/4 - (9x² - 6x + 1)/4 = (4x² - 9x² + 36x + 6x + 81 - 1)/4 = (-5x² + 42x + 80)/4
 8: (-5x² + 42x + 80)/4
+// found this in 2mn
 9: (-5x² + 42x + 80)/4 = 48 | -5x² + 42x = 48 * 4 - 80 | -5x² + 42x = 112 | 
+// got blocked here
 i looked up help on internet. to solve this it's a "discriminant" i haven't seen that yet but i'll try |
--5x² + 42x = 112 | -5x² + 42x -112 = 0 | 
+-5x² + 42x = 112
+5(x² + (42/5)x) = 112
+
+// where i went alone after 35 mn:
+
+9: A - B = 48 | L - l = sqrt(48) | L - l = 6.92 |
+((2x + 9)/2 - (3x - 1)/2)((2x + 9)/2 + (3x - 1)/2)
+((2x + 9)/2 - (3x - 1)/2) = (2x + 9 - 3x + 1)/2 = (-x + 10)/2
+((2x + 9)/2 + (3x - 1)/2) = (2x + 9 + 3x - 1)/2 = (5x - 8)/2
+((-x + 10)/2)((5x - 8)/2) = ((-x + 10)(5x - 8))/4
+((-x + 10)(5x - 8))/4 = 48 = (-x + 10)(5x - 8) = 48 * 4 = (-x + 10)(5x - 8) = 192
+
+// test after reading:
+9: (-5x² + 42x + 80)/4 = 48 | -5x² + 42x = 48 * 4 - 80 | -5x² + 42x = 112 | 
+-5x² + 42x - 112 = 0
+-5(x² - (42/5)x) - 112 = 0
+-5([x - 21/5]² - (21/5)²) - 112 = 0
+-5([x - 21/5]² - 441/25) - 112 = 0
+-5(x - 21/5)² - 441/5 - 112 = 0
+9: final result: i don't find anything
+10-15 are impossible to answer without 9
