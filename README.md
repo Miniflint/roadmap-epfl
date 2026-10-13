@@ -71,8 +71,8 @@ By the end of this roadmap, I want to be able to:
     - [x] Factoring quadratics
     - [ ] Quadratic formula
     - Resources:
-        - [ ] Maths et Tiques | [Calcul litéral (2nd)](https://www.youtube.com/watch?v=gSa851JJn6c&list=PLVUDmbpupCardIQnUIk2NsPvqKlyBU8jN)
-        - [ ] Maths et Tiques | [factorisation 3nd](https://youtube.com/playlist?list=PLVUDmbpupCapywA8L7SU16KS-9Q6j7_XZ&si=mgeS569_9Qk9WNvL)
+        - [] Maths et Tiques | [Calcul litéral (2nd)](https://www.youtube.com/watch?v=gSa851JJn6c&list=PLVUDmbpupCardIQnUIk2NsPvqKlyBU8jN)
+        - [x] Maths et Tiques | [factorisation 3nd](https://youtube.com/playlist?list=PLVUDmbpupCapywA8L7SU16KS-9Q6j7_XZ&si=mgeS569_9Qk9WNvL)
         - [x] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU&list=PLVUDmbpupCaq_P1jKcKvnDoS4PG6VoXTE&index=9&t=12s)
         - [ ] Maths et Tiques | [Équation du second degré](https://www.youtube.com/playlist?list=PLVUDmbpupCaqilBbriQYMVjn0BRBCgwdH)
 
