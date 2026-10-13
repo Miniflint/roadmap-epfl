@@ -52,28 +52,28 @@ By the end of this roadmap, I want to be able to:
     - [x] Variables & expressions
     - [x] Distributive property
     - [x] Combining like terms
-    - [ ] Powers & roots
+    - [x] Powers & roots
     - [x] Linear equations
     - [x] Systems of linear equations
     - [x] Binomial expansions
-    - [ ] Algebraic fractions
+    - [x] Algebraic fractions
     - Ressources:
         - [x] Maths et Tiques | [Calcul littéral](https://www.youtube.com/watch?v=mbG8a5Uae30&list=PLVUDmbpupCapuHDg65cf4sNTNkYXVVGP-)
         - [x] Maths et Tiques | [Distributivité](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc&index=1&t=1016s)
         - [x] Maths et Tiques | [Réduire une expression](https://www.youtube.com/watch?v=zRBOouW-O1c&list=PLVUDmbpupCardw9Q239DCa2mKVYuNSpKc)
         - [x] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
         - [x] Maths et Tiques | [Systèmes d'équations](https://www.youtube.com/watch?v=sWaHnxqUve0)
-        - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
+        - [x] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
 
 4. Factoring
-    - [ ] Common factors
-    - [ ] Difference of squares
-    - [ ] Factoring quadratics
+    - [x] Common factors
+    - [x] Difference of squares
+    - [x] Factoring quadratics
     - [ ] Quadratic formula
     - Resources:
         - [ ] Maths et Tiques | [Calcul litéral (2nd)](https://www.youtube.com/watch?v=gSa851JJn6c&list=PLVUDmbpupCardIQnUIk2NsPvqKlyBU8jN)
         - [ ] Maths et Tiques | [factorisation 3nd](https://youtube.com/playlist?list=PLVUDmbpupCapywA8L7SU16KS-9Q6j7_XZ&si=mgeS569_9Qk9WNvL)
-        - [ ] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU&list=PLVUDmbpupCaq_P1jKcKvnDoS4PG6VoXTE&index=9&t=12s)
+        - [x] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU&list=PLVUDmbpupCaq_P1jKcKvnDoS4PG6VoXTE&index=9&t=12s)
         - [ ] Maths et Tiques | [Équation du second degré](https://www.youtube.com/playlist?list=PLVUDmbpupCaqilBbriQYMVjn0BRBCgwdH)
 
 5. Functions
