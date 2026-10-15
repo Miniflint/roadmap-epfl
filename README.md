@@ -64,8 +64,6 @@ By the end of this roadmap, I want to be able to:
         - [x] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
         - [x] Maths et Tiques | [Systèmes d'équations](https://www.youtube.com/watch?v=sWaHnxqUve0)
         - [x] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
-        - [x] Maths et Tiques | [Puissances](https://www.maths-et-tiques.fr/telech/TPuiss.pdf)
-        - [x] Maths et Tiques | [Racines carrées](https://www.maths-et-tiques.fr/telech/TRac.pdf)
 
 4. Factoring
     - [x] Common factors
@@ -78,7 +76,15 @@ By the end of this roadmap, I want to be able to:
         - [x] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU&list=PLVUDmbpupCaq_P1jKcKvnDoS4PG6VoXTE&index=9&t=12s)
         - [ ] Maths et Tiques | [Équation du second degré](https://www.youtube.com/playlist?list=PLVUDmbpupCaqilBbriQYMVjn0BRBCgwdH)
 
-5. Functions
+5. Exponent & radical
+    - [ ] Laws of exponents
+    - [ ] Negative exponents
+    - [ ] Fractional exponents
+    - [ ] Radicals
+        - [x] Maths et Tiques | [Puissances](https://www.maths-et-tiques.fr/telech/TPuiss.pdf)
+        - [x] Maths et Tiques | [Racines carrées](https://www.maths-et-tiques.fr/telech/TRac.pdf)
+
+6. Functions
     - [ ] What is a function?
     - [ ] Inputs & outputs
     - [ ] Domain & range
@@ -185,10 +191,6 @@ By the end of this roadmap, I want to be able to:
         - [ ] Cours français | Bases et dimension
 
 2. Exponents & roots and Logarithms
-    - [ ] Laws of exponents
-    - [ ] Negative exponents
-    - [ ] Fractional exponents
-    - [ ] Radicals
     - [ ] Exponential functions
     - [ ] Exponential equations
     - [ ] Logarithms
