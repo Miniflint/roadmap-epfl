@@ -81,8 +81,8 @@ By the end of this roadmap, I want to be able to:
     - [ ] Negative exponents
     - [ ] Fractional exponents
     - [ ] Radicals
-        - [x] Maths et Tiques | [Puissances](https://www.maths-et-tiques.fr/telech/TPuiss.pdf)
-        - [x] Maths et Tiques | [Racines carrées](https://www.maths-et-tiques.fr/telech/TRac.pdf)
+        - [ ] Maths et Tiques | [Puissances](https://www.maths-et-tiques.fr/telech/TPuiss.pdf)
+        - [ ] Maths et Tiques | [Racines carrées](https://www.maths-et-tiques.fr/telech/TRac.pdf)
 
 6. Functions
     - [ ] What is a function?
