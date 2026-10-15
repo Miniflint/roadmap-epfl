@@ -79,18 +79,7 @@ By the end of this roadmap, I want to be able to:
         - [x] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU&list=PLVUDmbpupCaq_P1jKcKvnDoS4PG6VoXTE&index=9&t=12s)
         - [ ] Maths et Tiques | [Équation du second degré](https://www.youtube.com/playlist?list=PLVUDmbpupCaqilBbriQYMVjn0BRBCgwdH)
 
-5. Deep dive in Exponents & roots
-    - [ ] Power
-    - [ ] Laws of exponents
-    - [ ] Negative exponents
-    - [ ] Fractional exponents
-    - [ ] Radicals
-    - [ ] Exponential functions
-    - [ ] Exponential equations
-    - Ressources
-        - [ ] Maths et Tiques | [Exponentielle](https://www.maths-et-tiques.fr/telech/ExpoTS.pdf)
-
-6. Functions
+5. Functions
     - [ ] What is a function?
     - [ ] Inputs & outputs
     - [ ] Domain & range
@@ -195,12 +184,20 @@ By the end of this roadmap, I want to be able to:
         - [ ] Cours français | Applications linéaires
         - [ ] Cours français | Familles libres et génératrices
         - [ ] Cours français | Bases et dimension
-2. Logarithms
+
+2. Exponents & roots and Logarithms
+    - [ ] Laws of exponents
+    - [ ] Negative exponents
+    - [ ] Fractional exponents
+    - [ ] Radicals
+    - [ ] Exponential functions
+    - [ ] Exponential equations
     - [ ] Logarithms
     - [ ] Laws of logarithms
     - [ ] Logarithmic equations
     - Ressources
-        - [ ] Maths et Tiques | Logarithme
+        - [ ] Maths et Tiques | [Logarithme](https://www.youtube.com/watch?v=VJns0RfVWGg)
+        - [ ] Maths et Tiques | [Exponentielle](https://www.maths-et-tiques.fr/telech/ExpoTS.pdf)
 
 ## Phase 4 | Mathematical Maturity
 
