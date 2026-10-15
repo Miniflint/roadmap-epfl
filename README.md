@@ -64,6 +64,9 @@ By the end of this roadmap, I want to be able to:
         - [x] Maths et Tiques | [Équations](https://www.youtube.com/watch?v=Z0i031tIdpQ&list=PLVUDmbpupCap9__omIxfdwJsTQKaTQ5vj)
         - [x] Maths et Tiques | [Systèmes d'équations](https://www.youtube.com/watch?v=sWaHnxqUve0)
         - [x] Maths et Tiques | [Identités remarquables](https://www.youtube.com/watch?v=A8U1QVW7RaU)
+        - [x] Maths et Tiques | [Puissances](https://www.maths-et-tiques.fr/telech/TPuiss.pdf)
+        - [x] Maths et Tiques | [Racines carrées](https://www.maths-et-tiques.fr/telech/TRac.pdf)
+
 
 4. Factoring
     - [x] Common factors
@@ -77,6 +80,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Maths et Tiques | [Équation du second degré](https://www.youtube.com/playlist?list=PLVUDmbpupCaqilBbriQYMVjn0BRBCgwdH)
 
 5. Deep dive in Exponents & roots
+    - [ ] Power
     - [ ] Laws of exponents
     - [ ] Negative exponents
     - [ ] Fractional exponents
@@ -84,9 +88,7 @@ By the end of this roadmap, I want to be able to:
     - [ ] Exponential functions
     - [ ] Exponential equations
     - Ressources
-        - [ ] Maths et Tiques | Puissances
-        - [ ] Maths et Tiques | Racines carrées
-        - [ ] Maths et Tiques | Exponentielle
+        - [ ] Maths et Tiques | [Exponentielle](https://www.maths-et-tiques.fr/telech/ExpoTS.pdf)
 
 6. Functions
     - [ ] What is a function?
@@ -156,7 +158,7 @@ By the end of this roadmap, I want to be able to:
         - [ ] Cours français | Produit vectoriel
         - [ ] Cours français | Projection orthogonale
 
-## PHASE 3 | Debut of algebra
+## PHASE 3 | Debut of Linear Algebra
 
 1. Linear Algebra
     - Matrices
