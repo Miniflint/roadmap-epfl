@@ -67,7 +67,6 @@ By the end of this roadmap, I want to be able to:
         - [x] Maths et Tiques | [Puissances](https://www.maths-et-tiques.fr/telech/TPuiss.pdf)
         - [x] Maths et Tiques | [Racines carrées](https://www.maths-et-tiques.fr/telech/TRac.pdf)
 
-
 4. Factoring
     - [x] Common factors
     - [x] Difference of squares
